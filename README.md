@@ -1,0 +1,8 @@
+For default client set:
+
+````
+
+export AZURE_CLIENT_ID=50832492-de6d-434e-92ba-d8be534fa13d
+export AZURE_TENANT_ID=44991835-87d7-4239-9df6-fc667fce766e
+export AZURE_CLIENT_SECRET=QB98Q~hADLNY6051RtfBIKW99nw0VHT2Tc1q~a-5
+````
